@@ -1,0 +1,14 @@
+target/
+*.class
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+test-output/
+test-results/
+playwright-report/
+node_modules/
+.idea/
+*.log
+.env
